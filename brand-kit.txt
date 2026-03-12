@@ -1,0 +1,17 @@
+
+THEGOODVIEWS BRAND KIT
+
+Primary Colors:
+Sky Blue: #3cc6ff
+Sun Yellow: #ffd23a
+Deep Navy: #0f172a
+White: #ffffff
+
+Recommended Fonts:
+Primary: Rounded sans-serif (example: Inter, Poppins, Nunito)
+Fallback: Arial / Helvetica
+
+Usage:
+- Use Sky Blue as primary UI and CTA color.
+- Sun Yellow for highlights and positive feedback.
+- Deep Navy for text and logo.
